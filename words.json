@@ -771,5 +771,18 @@
     ],
     "context": "\"As reading declines worldwide, Moomin wants to celebrate coming together to hear real human voices doing what people have done for thousands of years: immersing themselves in the magic of storytelling,\" the blurb reads.",
     "addedAt": 1795615422823
+  },
+  {
+    "word": "grim",
+    "phonetic": "/ɡɹɪm/",
+    "partOfSpeech": "noun",
+    "definition": "noun: Specter, ghost, haunting spirit\nverb: To make grim; to give a stern or forbidding aspect to.\nadjective: Dismal and gloomy, cold and forbidding\nadjective: Rigid and unrelenting",
+    "example": "Life was grim in many northern industrial towns.",
+    "usage": [
+      "His grim determination enabled him to win.",
+      "A grim castle overshadowed the village."
+    ],
+    "context": "Finland's unemployment statistics have made for grim reading throughout 2026, regularly ranking as the worst in the European Union.",
+    "addedAt": 1795617926339
   }
 ]
