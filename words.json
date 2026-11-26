@@ -784,5 +784,15 @@
     ],
     "context": "Finland's unemployment statistics have made for grim reading throughout 2026, regularly ranking as the worst in the European Union.",
     "addedAt": 1795617926339
+  },
+  {
+    "word": "consolidating",
+    "phonetic": "",
+    "partOfSpeech": "verb",
+    "definition": "verb: To combine into a single unit; to group together or join.\nverb: To make stronger or more solid.",
+    "example": "He consolidated his luggage into a single large bag.",
+    "usage": [],
+    "context": "**TL;DR:** Microsoft is streamlining its AI infrastructure strategy, consolidating its roster of neocloud partners to focus on fewer key suppliers and its own data centers.",
+    "addedAt": 1795697077772
   }
 ]
