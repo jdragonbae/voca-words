@@ -851,5 +851,19 @@
     "usage": [],
     "context": "Women's satisfaction with family policy in particular has plummeted.",
     "addedAt": 1795707711649
+  },
+  {
+    "word": "scrap",
+    "phonetic": "/skɹæp/",
+    "partOfSpeech": "noun",
+    "definition": "noun: A (small) piece; a fragment; a detached, incomplete portion.\nnoun: (usually in the plural) Leftover food.\nverb: To discard.\nverb: (of a project or plan) To stop working on indefinitely.",
+    "example": "I found a scrap of cloth to patch the hole.",
+    "usage": [
+      "Give the scraps to the dogs and watch them fight.",
+      "pork scraps",
+      "That car isn't good for anything but scrap."
+    ],
+    "context": "About half of Finns would meanwhile be prepared to scrap the universal child benefit, which is paid on the same basis to everyone, and instead stagger it based on income.",
+    "addedAt": 1795707897393
   }
 ]
