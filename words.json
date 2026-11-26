@@ -794,5 +794,29 @@
     "usage": [],
     "context": "**TL;DR:** Microsoft is streamlining its AI infrastructure strategy, consolidating its roster of neocloud partners to focus on fewer key suppliers and its own data centers.",
     "addedAt": 1795697077772
+  },
+  {
+    "word": "turn over",
+    "phonetic": "",
+    "partOfSpeech": "verb",
+    "definition": "verb: To flip over; to rotate uppermost to bottom.\nverb: To relinquish; give back.",
+    "example": "Turn over the box and look at the bottom.",
+    "usage": [
+      "They turned over the evidence to the authorities.",
+      "They can turn over about three hundred units per hour.",
+      "The business turned over £1m last year."
+    ],
+    "context": "Several women who served in the Winter War are still alive, among them Eila Hukkanen, Helka Visuri and Eva Lintunen, who were named Lotta of the Year in turn over the past three years.",
+    "addedAt": 1795707258912
+  },
+  {
+    "word": "longevity",
+    "phonetic": "/lɒnˈdʒɛ.vɪ.ti/",
+    "partOfSpeech": "noun",
+    "definition": "noun: The quality of being long-lasting, especially of life.\nnoun: Duration over time; persistence.",
+    "example": "Grandfather had incredible longevity: he lived to be 105 years old!",
+    "usage": [],
+    "context": "Longevity did not run in his immediate family.",
+    "addedAt": 1795707308304
   }
 ]
