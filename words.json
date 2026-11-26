@@ -828,5 +828,18 @@
     "usage": [],
     "context": "Now, at 108, he sometimes thinks about his own demise.",
     "addedAt": 1795707386087
+  },
+  {
+    "word": "surveying",
+    "phonetic": "",
+    "partOfSpeech": "verb",
+    "definition": "verb: To inspect, or take a view of; to view with attention, as from a high place; to overlook\nverb: To view with a scrutinizing eye; to examine.\nnoun: The science of accurately determining the position of points and the distances between them.",
+    "example": "He stood on a hill, and surveyed the surrounding country.",
+    "usage": [
+      "It was his job to survey buildings in order to determine their value and risks.",
+      "to survey land or a coast"
+    ],
+    "context": "Koppinen was married for 60 years and spent his working life in surveying.",
+    "addedAt": 1795707484565
   }
 ]
